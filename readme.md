@@ -5,3 +5,6 @@ This project demonstrates a simple method of applying a CSS gradient to a rounde
 
 ## Live Demo
 A live demo is available on [CodePen](https://codepen.io/GeorgePark/pen/EEGJEj).
+
+## License
+This project is licensed under the MIT License - see the [license.md](license.md) file for details.
